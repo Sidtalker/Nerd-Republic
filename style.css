@@ -1,0 +1,105 @@
+.Wraper{
+	width: 100%;
+	min-width: 600px;
+	height: 100%;
+	margin: auto;
+	background-image: url(Images/background.jpeg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.Name{background-color: rgb(70 46 82);
+	text-align: center;
+	margin:2px 0px;
+	color: rgb(63 190 213);
+}
+
+#ContenT{
+	border: 1px solid white;
+	width:75px;
+	font-size: 18px;
+	background-color: #343a40;
+	color: white;
+	margin: 5px;
+}
+
+#SidebaR{
+	border: 1px solid white;
+	width:110px;
+	width:70px;
+	font-size: 18px;
+	background-color: #343a40;
+	color: white;
+	margin: 5px;
+}
+
+.h2Element{
+	border: 1px solid white;
+	width:135px;
+	width:78px;
+	font-size: 18px;
+	background-color: #343a40;
+	color: white;
+	margin: 5px;
+}
+
+.content{
+	background-color:rgba(135, 206, 235, 0.5);
+	background-size: ;
+	width: 70%;
+	height: 100%;
+	float: left;
+		
+}
+
+.sideBar{
+	background-color:rgba(255, 192, 203, 0.5);
+	width: 30%;
+	height: 100%;
+	float: right;
+	border: 2px solid grey;
+	
+}
+
+/*.jumbotron{
+	margin-bottom: 0px;
+	background-color:rgba(135, 206, 235, 0.5);
+	width: 70%;
+	float: left;
+}*/
+
+.display-4{
+	color: #343a40;
+	font-weight: bolder;
+	text-align: center;
+}
+
+p{
+	margin: 0px 10px;
+	font-weight: bold;
+	font-size:17px; 
+	
+}
+
+.lead{
+	font-weight: bold;
+}
+
+.btn-lg{
+	margin: 5px;
+	background-color: rgb(70 46 82);
+	color: white;
+}
+
+.nav-item{
+	padding:0px 80px 0px 0px;
+}
+
+footer{
+	background-color: #343a40;
+	color: white;
+	text-align: right;
+	clear: both;
+}
+
+

@@ -1,0 +1,36 @@
+.Wraper{
+	width: 95%;
+	margin: auto;
+}
+h1{background-color: rgb(70, 46, 82);
+	text-align: center;
+	margin:2px 0px;
+	color: rgb(63, 190, 213);
+}
+
+.content{
+	background-color:skyblue;
+	width: 70%;
+	float: left;	
+}
+
+.sideBar{
+	background-color: pink;
+	width: 30%;
+	float: right;
+	border: 1px solid grey;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+	background-color:skyblue;
+	width: 70%;
+	float: left;
+}
+
+p{
+	margin: 0px 10px;
+	
+}
+
+
